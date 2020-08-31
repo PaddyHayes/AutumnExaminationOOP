@@ -1,6 +1,6 @@
 public class wineAge {
 
-    private int age;
+    public int age;
     String brand;
     int price;
 
